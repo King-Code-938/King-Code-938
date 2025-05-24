@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @King-Code-938
-- 👀 I’m interested in full-stack development and Crypto airdrops
-- 🌱 I’m currently learning Html,CSS, and JS
-- 💞️ I’m looking to collaborate on web projects
+- 👋 Hi, I’m Daniel Idowu
+- 👀 I’m a full-stack developer
+- 🌱 I’m am proficient in JavaScript, MongoDB, ExpressJS and NodeJS
+- 💞️ I’m looking to build your dream sites
 - 📫 How to reach me: Email:danielidowu938@gmail.com ; Phone: +2349130863088
-- 😄 Pronouns: He
+- 😄 Pronoun: He
 
 - 
 <!---
