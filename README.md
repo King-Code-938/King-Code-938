@@ -1,48 +1,49 @@
-<h1 align="center">Hey, I'm King 👑</h1>
-<p align="center">Fullstack Developer • Student • Builder of Greatness</p>
+<h1 align="center">Hi, I'm Daniel Oluwatobiloba Idowu</h1>
+<h3 align="center">Fullstack Developer | Computer Science Student | Problem Solver</h3>
 
 ---
 
-### 🧑🏽‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎓 University student balancing code & chaos
-- ⚙️ Fullstack dev on a 6–8 month journey (and winning!)
-- 💻 Ubuntu wizard (sometimes running from NEPA 😭)
-- 💬 Learning in public. Manga & caffeine fuel included.
-
----
-
-### 🚀 Current Focus
-
-- Mastering JavaScript, Node.js, React
-- DevTools, Git CLI, and system-level scripting
-- Building real-world apps and deploying them
-- Documenting everything for future wereys to learn from
+- 💡 Passionate about building scalable, accessible, and clean web applications.
+- 🎓 Currently pursuing a degree in Computer Science, balancing academics with a structured self-learning dev roadmap.
+- 🧠 Strong foundation in JavaScript, Git, and the Linux command line.
+- 🛠️ Actively working on full-stack projects using the MERN stack and deploying real-world applications.
+- 📚 Committed to continuous learning and sharing what I know.
 
 ---
 
-### 📈 Tech Stack
+### 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
----
-
-### 📫 Contact Me
-
-- 🔗 [LinkedIn](https://linkedin.com/in/danielidowu938)
-- ✉️ `danielidowu938@gmail.com`
-- 💬 Dev rants? Project collabs? Manga recs? I’m in.
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools & Platforms:** Git, GitHub, VS Code, Ubuntu, Linux CLI
+- **Other:** API integration, LocalStorage, Authentication, DevTools
 
 ---
 
-### 🔥 Fun Stats
+### 📈 Currently Focused On
+
+- Completing a 6–8 month full-stack roadmap (currently in Phase 1)
+- Improving system optimization, deployment, and advanced CLI scripting
+- Contributing to personal and collaborative open-source projects
+- Building a professional portfolio site with fully documented repositories
+
+---
+
+### 📬 Let’s Connect
+
+- 📧 Email: danielidowu938@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/danielidowu938)  
+- 🌐 Portfolio: (coming soon)  
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=King-Code-938&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Code-938&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=King-Code-938&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Code-938&layout=compact&theme=default" />
 </p>
