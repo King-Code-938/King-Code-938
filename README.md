@@ -36,8 +36,8 @@
 
 ### 🔗 Let's Connect
 
-- 📫 `your.email@example.com`
-- 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 `danielidowu938@gmail.com`
+- 🌐 [LinkedIn](https://linkedin.com/in/danielidowu938)
 - 🛠️ Portfolio: *Coming soon*
 
 ---
