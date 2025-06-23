@@ -34,8 +34,8 @@
 
 ### 📫 Contact Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- ✉️ `your.email@example.com`
+- 🔗 [LinkedIn](https://linkedin.com/in/danielidowu938)
+- ✉️ `danielidowu938@gmail.com`
 - 💬 Dev rants? Project collabs? Manga recs? I’m in.
 
 ---
