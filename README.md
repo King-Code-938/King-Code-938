@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=King-Code-938&show_icons=true&theme=tokyonight" />
